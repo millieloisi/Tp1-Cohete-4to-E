@@ -441,6 +441,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1876461138}
   - component: {fileID: 1876461137}
+  - component: {fileID: 1876461139}
   m_Layer: 0
   m_Name: Boton
   m_TagString: Untagged
@@ -480,3 +481,16 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1876461139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1876461136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04930db6d4e6ac34e9d9ac80dfe08e46, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  botonGO: {fileID: 1196119442}
