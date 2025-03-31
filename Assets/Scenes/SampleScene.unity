@@ -587,4 +587,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   botonGO: {fileID: 1196119442}
-  coheteScript: {fileID: 0}
+  coheteScript: {fileID: 968015201}
